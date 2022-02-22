@@ -1,2 +1,0 @@
-# EAJ
-Electronic Animal Journal
